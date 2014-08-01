@@ -122,7 +122,7 @@ public class WallpaperActivity extends Activity implements ViewFactory {
 	/**
 	 * 定义内部类
 	 * 
-	 * @author chenhua
+	 * @author zzw
 	 * 
 	 */
 	private class ImageAdapter extends BaseAdapter {
